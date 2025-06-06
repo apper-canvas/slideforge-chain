@@ -1,0 +1,373 @@
+[
+  {
+    "id": "1",
+    "title": "AI-Driven Transformation Across Griffin Holdings",
+    "theme": "corporate",
+    "slides": [
+      {
+        "id": "slide1",
+        "order": 1,
+        "layout": "title",
+        "elements": [
+          {
+            "id": "title1",
+            "type": "text",
+            "content": "AI-Driven Transformation Across Griffin Holdings",
+            "position": { "x": 50, "y": 30 },
+            "style": { "fontSize": "32px", "fontWeight": "bold", "color": "#1e293b", "textAlign": "center" }
+          },
+          {
+            "id": "subtitle1",
+            "type": "text",
+            "content": "A Strategic Overview for Enhanced Efficiency, Growth, and Resilience",
+            "position": { "x": 50, "y": 45 },
+            "style": { "fontSize": "18px", "color": "#64748b", "textAlign": "center" }
+          }
+        ],
+        "transitions": { "type": "fade", "duration": 0.5 },
+        "notes": "Introduction slide for Griffin Holdings AI transformation presentation"
+      },
+      {
+        "id": "slide2",
+        "order": 2,
+        "layout": "content",
+        "elements": [
+          {
+            "id": "heading2",
+            "type": "text",
+            "content": "Executive Summary: AI as a Strategic Imperative",
+            "position": { "x": 50, "y": 15 },
+            "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "bullet1",
+            "type": "text",
+            "content": "• Griffin Capital Holdings: Leveraging AI for fundamental operational transformation\n• Core Objectives: Substantial efficiencies, elevated customer experiences, optimized revenue\n• Pivotal Shift: From reactive, rule-based operations to proactive, data-driven processes",
+            "position": { "x": 30, "y": 40 },
+            "style": { "fontSize": "16px", "color": "#334155", "lineHeight": "1.6" }
+          }
+        ],
+        "transitions": { "type": "slide", "duration": 0.7 },
+        "notes": "Key strategic points for AI implementation across Griffin Holdings"
+      }
+    ],
+    "createdAt": "2024-01-15T09:30:00Z",
+    "updatedAt": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Q4 Financial Review",
+    "theme": "data-analytics",
+    "slides": [
+      {
+        "id": "slide3",
+        "order": 1,
+        "layout": "title",
+        "elements": [
+          {
+            "id": "title2",
+            "type": "text",
+            "content": "Q4 2024 Financial Review",
+            "position": { "x": 50, "y": 40 },
+            "style": { "fontSize": "36px", "fontWeight": "bold", "color": "#1e293b" }
+          }
+        ],
+        "transitions": { "type": "fade", "duration": 0.5 },
+        "notes": "Quarterly financial performance overview"
+      }
+    ],
+    "createdAt": "2024-01-10T11:15:00Z",
+    "updatedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Product Roadmap 2024",
+    "theme": "ai-tech",
+    "slides": [
+      {
+        "id": "slide4",
+        "order": 1,
+        "layout": "title",
+        "elements": [
+          {
+            "id": "title3",
+            "type": "text",
+            "content": "Product Roadmap 2024",
+            "position": { "x": 50, "y": 40 },
+            "style": { "fontSize": "32px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "subtitle3",
+            "type": "text",
+            "content": "Innovation & Growth Strategy",
+            "position": { "x": 50, "y": 55 },
+            "style": { "fontSize": "18px", "color": "#64748b" }
+          }
+        ],
+        "transitions": { "type": "zoom", "duration": 0.8 },
+        "notes": "Annual product development and innovation strategy"
+      }
+    ],
+    "createdAt": "2024-01-08T08:00:00Z",
+    "updatedAt": "2024-01-14T10:30:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Market Analysis Report",
+    "theme": "corporate",
+    "slides": [
+      {
+        "id": "slide5",
+        "order": 1,
+        "layout": "content",
+        "elements": [
+          {
+            "id": "heading4",
+            "type": "text",
+            "content": "Market Analysis Report",
+            "position": { "x": 50, "y": 20 },
+            "style": { "fontSize": "30px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "chart1",
+            "type": "chart",
+            "content": { "type": "bar", "data": [65, 78, 82, 91] },
+            "position": { "x": 50, "y": 60 },
+            "style": { "width": "400px", "height": "250px" }
+          }
+        ],
+        "transitions": { "type": "slide", "duration": 0.6 },
+        "notes": "Comprehensive market trends and competitive analysis"
+      }
+    ],
+    "createdAt": "2024-01-05T13:45:00Z",
+    "updatedAt": "2024-01-11T09:20:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Team Performance Metrics",
+    "theme": "data-analytics",
+    "slides": [
+      {
+        "id": "slide6",
+        "order": 1,
+        "layout": "dashboard",
+        "elements": [
+          {
+            "id": "heading5",
+            "type": "text",
+            "content": "Team Performance Metrics",
+            "position": { "x": 50, "y": 15 },
+            "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "metric1",
+            "type": "text",
+            "content": "Productivity: +15%",
+            "position": { "x": 25, "y": 40 },
+            "style": { "fontSize": "20px", "fontWeight": "600", "color": "#059669" }
+          },
+          {
+            "id": "metric2",
+            "type": "text",
+            "content": "Efficiency: +22%",
+            "position": { "x": 75, "y": 40 },
+            "style": { "fontSize": "20px", "fontWeight": "600", "color": "#0ea5e9" }
+          }
+        ],
+        "transitions": { "type": "fade", "duration": 0.5 },
+        "notes": "Key performance indicators and team achievements"
+      }
+    ],
+    "createdAt": "2024-01-03T15:30:00Z",
+    "updatedAt": "2024-01-09T12:15:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Customer Success Stories",
+    "theme": "corporate",
+    "slides": [
+      {
+        "id": "slide7",
+        "order": 1,
+        "layout": "testimonial",
+        "elements": [
+          {
+            "id": "heading6",
+            "type": "text",
+            "content": "Customer Success Stories",
+            "position": { "x": 50, "y": 25 },
+            "style": { "fontSize": "30px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "testimonial1",
+            "type": "text",
+            "content": "\"The AI-powered solutions have transformed our operational efficiency by 40%\"",
+            "position": { "x": 50, "y": 50 },
+            "style": { "fontSize": "18px", "fontStyle": "italic", "color": "#475569", "textAlign": "center" }
+          },
+          {
+            "id": "customer1",
+            "type": "text",
+            "content": "- Sarah Johnson, CEO TechCorp",
+            "position": { "x": 50, "y": 65 },
+            "style": { "fontSize": "14px", "color": "#64748b", "textAlign": "center" }
+          }
+        ],
+        "transitions": { "type": "fade", "duration": 0.7 },
+        "notes": "Real customer testimonials and success metrics"
+      }
+    ],
+    "createdAt": "2024-01-01T10:00:00Z",
+    "updatedAt": "2024-01-07T14:30:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Future Technology Trends",
+    "theme": "ai-tech",
+    "slides": [
+      {
+        "id": "slide8",
+        "order": 1,
+        "layout": "split",
+        "elements": [
+          {
+            "id": "heading7",
+            "type": "text",
+            "content": "Future Technology Trends",
+            "position": { "x": 50, "y": 20 },
+            "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "trend1",
+            "type": "text",
+            "content": "• Machine Learning Integration\n• Automated Decision Making\n• Predictive Analytics\n• Real-time Data Processing",
+            "position": { "x": 30, "y": 55 },
+            "style": { "fontSize": "16px", "color": "#334155", "lineHeight": "1.8" }
+          },
+          {
+            "id": "image1",
+            "type": "image",
+            "content": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=300&h=200&fit=crop",
+            "position": { "x": 70, "y": 55 },
+            "style": { "borderRadius": "8px" }
+          }
+        ],
+        "transitions": { "type": "slide", "duration": 0.8 },
+        "notes": "Emerging technology trends and their business impact"
+      }
+    ],
+    "createdAt": "2023-12-28T16:20:00Z",
+    "updatedAt": "2024-01-05T11:45:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Quarterly Business Review",
+    "theme": "corporate",
+    "slides": [
+      {
+        "id": "slide9",
+        "order": 1,
+        "layout": "overview",
+        "elements": [
+          {
+            "id": "heading8",
+            "type": "text",
+            "content": "Q1 2024 Business Review",
+            "position": { "x": 50, "y": 25 },
+            "style": { "fontSize": "32px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "summary1",
+            "type": "text",
+            "content": "Revenue Growth: +18%\nCustomer Acquisition: +25%\nMarket Expansion: 3 New Regions",
+            "position": { "x": 50, "y": 55 },
+            "style": { "fontSize": "18px", "color": "#059669", "fontWeight": "600", "lineHeight": "1.6" }
+          }
+        ],
+        "transitions": { "type": "zoom", "duration": 0.6 },
+        "notes": "Comprehensive quarterly performance review and metrics"
+      }
+    ],
+    "createdAt": "2023-12-25T09:15:00Z",
+    "updatedAt": "2024-01-02T13:20:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Innovation Workshop",
+    "theme": "ai-tech",
+    "slides": [
+      {
+        "id": "slide10",
+        "order": 1,
+        "layout": "workshop",
+        "elements": [
+          {
+            "id": "heading9",
+            "type": "text",
+            "content": "Innovation Workshop 2024",
+            "position": { "x": 50, "y": 30 },
+            "style": { "fontSize": "30px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "subtitle9",
+            "type": "text",
+            "content": "Collaborative Problem Solving & Creative Thinking",
+            "position": { "x": 50, "y": 45 },
+            "style": { "fontSize": "16px", "color": "#64748b", "textAlign": "center" }
+          },
+          {
+            "id": "shape1",
+            "type": "shape",
+            "content": "",
+            "position": { "x": 30, "y": 70 },
+            "style": { "width": "80px", "height": "80px", "backgroundColor": "#3b82f6", "borderRadius": "50%" }
+          },
+          {
+            "id": "shape2",
+            "type": "shape",
+            "content": "",
+            "position": { "x": 70, "y": 70 },
+            "style": { "width": "80px", "height": "80px", "backgroundColor": "#f59e0b", "borderRadius": "50%" }
+          }
+        ],
+        "transitions": { "type": "fade", "duration": 0.5 },
+        "notes": "Interactive workshop for fostering innovation and creativity"
+      }
+    ],
+    "createdAt": "2023-12-20T14:00:00Z",
+    "updatedAt": "2023-12-30T10:25:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Strategic Planning Session",
+    "theme": "corporate",
+    "slides": [
+      {
+        "id": "slide11",
+        "order": 1,
+        "layout": "planning",
+        "elements": [
+          {
+            "id": "heading10",
+            "type": "text",
+            "content": "Strategic Planning Session",
+            "position": { "x": 50, "y": 20 },
+            "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+          },
+          {
+            "id": "objectives1",
+            "type": "text",
+            "content": "Key Objectives for 2024:\n\n1. Market Leadership\n2. Innovation Excellence\n3. Customer Satisfaction\n4. Operational Excellence",
+            "position": { "x": 50, "y": 60 },
+            "style": { "fontSize": "16px", "color": "#334155", "lineHeight": "1.8" }
+          }
+        ],
+        "transitions": { "type": "slide", "duration": 0.7 },
+        "notes": "Annual strategic planning and goal setting session"
+      }
+    ],
+    "createdAt": "2023-12-18T11:30:00Z",
+    "updatedAt": "2023-12-28T15:40:00Z"
+  }
+]

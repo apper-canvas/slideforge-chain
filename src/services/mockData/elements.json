@@ -1,0 +1,220 @@
+[
+  {
+    "id": "elem1",
+    "type": "text",
+    "content": "AI-Driven Transformation Across Griffin Holdings",
+    "position": { "x": 50, "y": 30 },
+    "style": {
+      "fontSize": "32px",
+      "fontWeight": "bold",
+      "color": "#1e293b",
+      "textAlign": "center",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2024-01-15T09:30:00Z",
+    "updatedAt": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "elem2",
+    "type": "text",
+    "content": "A Strategic Overview for Enhanced Efficiency, Growth, and Resilience",
+    "position": { "x": 50, "y": 45 },
+    "style": {
+      "fontSize": "18px",
+      "color": "#64748b",
+      "textAlign": "center",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2024-01-15T09:32:00Z",
+    "updatedAt": "2024-01-15T14:22:00Z"
+  },
+  {
+    "id": "elem3",
+    "type": "text",
+    "content": "Executive Summary: AI as a Strategic Imperative",
+    "position": { "x": 50, "y": 15 },
+    "style": {
+      "fontSize": "28px",
+      "fontWeight": "bold",
+      "color": "#1e293b",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2024-01-15T09:35:00Z",
+    "updatedAt": "2024-01-15T14:25:00Z"
+  },
+  {
+    "id": "elem4",
+    "type": "text",
+    "content": "• Griffin Capital Holdings: Leveraging AI for fundamental operational transformation\n• Core Objectives: Substantial efficiencies, elevated customer experiences, optimized revenue\n• Pivotal Shift: From reactive, rule-based operations to proactive, data-driven processes",
+    "position": { "x": 30, "y": 40 },
+    "style": {
+      "fontSize": "16px",
+      "color": "#334155",
+      "lineHeight": "1.6",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2024-01-15T09:37:00Z",
+    "updatedAt": "2024-01-15T14:27:00Z"
+  },
+  {
+    "id": "elem5",
+    "type": "image",
+    "content": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=300&fit=crop",
+    "position": { "x": 70, "y": 50 },
+    "style": {
+      "borderRadius": "8px",
+      "maxWidth": "300px",
+      "maxHeight": "200px"
+    },
+    "createdAt": "2024-01-12T11:15:00Z",
+    "updatedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "elem6",
+    "type": "chart",
+    "content": {
+      "type": "bar",
+      "data": [15, 20, 40, 80],
+      "labels": ["Revenue", "Efficiency", "Maintenance", "Queries"],
+      "title": "Quantifiable Benefits"
+    },
+    "position": { "x": 50, "y": 60 },
+    "style": {
+      "width": "400px",
+      "height": "250px"
+    },
+    "createdAt": "2024-01-10T08:20:00Z",
+    "updatedAt": "2024-01-14T12:10:00Z"
+  },
+  {
+    "id": "elem7",
+    "type": "shape",
+    "content": "",
+    "position": { "x": 25, "y": 70 },
+    "style": {
+      "width": "100px",
+      "height": "100px",
+      "backgroundColor": "#3b82f6",
+      "borderRadius": "50%"
+    },
+    "createdAt": "2024-01-08T15:45:00Z",
+    "updatedAt": "2024-01-11T09:30:00Z"
+  },
+  {
+    "id": "elem8",
+    "type": "text",
+    "content": "Griffin Wings | AI Flight Pricing Assistant | Increase revenue by 15% - 20%",
+    "position": { "x": 50, "y": 35 },
+    "style": {
+      "fontSize": "14px",
+      "color": "#334155",
+      "fontFamily": "monospace",
+      "backgroundColor": "#f8fafc",
+      "padding": "8px",
+      "borderRadius": "4px"
+    },
+    "createdAt": "2024-01-05T13:20:00Z",
+    "updatedAt": "2024-01-09T17:15:00Z"
+  },
+  {
+    "id": "elem9",
+    "type": "text",
+    "content": "Griffin Resources | AI-Powered Hiring Assistant | Cut resume screening time from 30 mins to under 2 mins",
+    "position": { "x": 50, "y": 45 },
+    "style": {
+      "fontSize": "14px",
+      "color": "#334155",
+      "fontFamily": "monospace",
+      "backgroundColor": "#f8fafc",
+      "padding": "8px",
+      "borderRadius": "4px"
+    },
+    "createdAt": "2024-01-05T13:22:00Z",
+    "updatedAt": "2024-01-09T17:17:00Z"
+  },
+  {
+    "id": "elem10",
+    "type": "text",
+    "content": "Griffin Capital Holdings | AI Financial Analyst | Cut monthly reporting from 5 days to just a few hours",
+    "position": { "x": 50, "y": 55 },
+    "style": {
+      "fontSize": "14px",
+      "color": "#334155",
+      "fontFamily": "monospace",
+      "backgroundColor": "#f8fafc",
+      "padding": "8px",
+      "borderRadius": "4px"
+    },
+    "createdAt": "2024-01-05T13:24:00Z",
+    "updatedAt": "2024-01-09T17:19:00Z"
+  },
+  {
+    "id": "elem11",
+    "type": "image",
+    "content": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=350&h=250&fit=crop",
+    "position": { "x": 75, "y": 60 },
+    "style": {
+      "borderRadius": "8px",
+      "maxWidth": "250px",
+      "maxHeight": "180px"
+    },
+    "createdAt": "2024-01-03T10:30:00Z",
+    "updatedAt": "2024-01-07T14:45:00Z"
+  },
+  {
+    "id": "elem12",
+    "type": "shape",
+    "content": "",
+    "position": { "x": 75, "y": 70 },
+    "style": {
+      "width": "80px",
+      "height": "80px",
+      "backgroundColor": "#f59e0b",
+      "borderRadius": "8px"
+    },
+    "createdAt": "2024-01-01T12:00:00Z",
+    "updatedAt": "2024-01-05T16:20:00Z"
+  },
+  {
+    "id": "elem13",
+    "type": "text",
+    "content": "Real-time Responsiveness: Instant reactions to dynamic market shifts",
+    "position": { "x": 30, "y": 60 },
+    "style": {
+      "fontSize": "16px",
+      "color": "#059669",
+      "fontWeight": "600",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2023-12-30T14:15:00Z",
+    "updatedAt": "2024-01-02T11:30:00Z"
+  },
+  {
+    "id": "elem14",
+    "type": "text",
+    "content": "Predictive Capabilities: Proactive prevention over reactive problem-solving",
+    "position": { "x": 30, "y": 70 },
+    "style": {
+      "fontSize": "16px",
+      "color": "#3b82f6",
+      "fontWeight": "600",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2023-12-30T14:17:00Z",
+    "updatedAt": "2024-01-02T11:32:00Z"
+  },
+  {
+    "id": "elem15",
+    "type": "text",
+    "content": "Enhanced Efficiency & Automation: Reduced manual effort, focus on high-value tasks",
+    "position": { "x": 30, "y": 80 },
+    "style": {
+      "fontSize": "16px",
+      "color": "#dc2626",
+      "fontWeight": "600",
+      "fontFamily": "Poppins"
+    },
+    "createdAt": "2023-12-30T14:19:00Z",
+    "updatedAt": "2024-01-02T11:34:00Z"
+  }
+]

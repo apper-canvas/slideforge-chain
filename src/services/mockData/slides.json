@@ -1,0 +1,245 @@
+[
+  {
+    "id": "slide1",
+    "order": 1,
+    "layout": "title",
+    "elements": [
+      {
+        "id": "title1",
+        "type": "text",
+        "content": "AI-Driven Transformation",
+        "position": { "x": 50, "y": 40 },
+        "style": { "fontSize": "32px", "fontWeight": "bold", "color": "#1e293b" }
+      }
+    ],
+    "transitions": { "type": "fade", "duration": 0.5 },
+    "notes": "Title slide for presentation",
+    "createdAt": "2024-01-15T09:30:00Z",
+    "updatedAt": "2024-01-15T14:20:00Z"
+  },
+  {
+    "id": "slide2",
+    "order": 2,
+    "layout": "content",
+    "elements": [
+      {
+        "id": "heading2",
+        "type": "text",
+        "content": "Executive Summary",
+        "position": { "x": 50, "y": 20 },
+        "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+      },
+      {
+        "id": "bullet1",
+        "type": "text",
+        "content": "• Strategic AI Implementation\n• Operational Transformation\n• Enhanced Efficiency",
+        "position": { "x": 30, "y": 50 },
+        "style": { "fontSize": "16px", "color": "#334155" }
+      }
+    ],
+    "transitions": { "type": "slide", "duration": 0.7 },
+    "notes": "Executive summary points",
+    "createdAt": "2024-01-15T09:35:00Z",
+    "updatedAt": "2024-01-15T14:25:00Z"
+  },
+  {
+    "id": "slide3",
+    "order": 3,
+    "layout": "chart",
+    "elements": [
+      {
+        "id": "chart1",
+        "type": "chart",
+        "content": { "type": "bar", "data": [15, 20, 25, 30] },
+        "position": { "x": 50, "y": 50 },
+        "style": { "width": "400px", "height": "300px" }
+      }
+    ],
+    "transitions": { "type": "zoom", "duration": 0.8 },
+    "notes": "Performance metrics chart",
+    "createdAt": "2024-01-15T09:40:00Z",
+    "updatedAt": "2024-01-15T14:30:00Z"
+  },
+  {
+    "id": "slide4",
+    "order": 1,
+    "layout": "image",
+    "elements": [
+      {
+        "id": "image1",
+        "type": "image",
+        "content": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+        "position": { "x": 50, "y": 50 },
+        "style": { "borderRadius": "8px" }
+      }
+    ],
+    "transitions": { "type": "fade", "duration": 0.6 },
+    "notes": "Technology visualization",
+    "createdAt": "2024-01-12T11:15:00Z",
+    "updatedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "slide5",
+    "order": 1,
+    "layout": "split",
+    "elements": [
+      {
+        "id": "text2",
+        "type": "text",
+        "content": "Key Benefits",
+        "position": { "x": 25, "y": 30 },
+        "style": { "fontSize": "24px", "fontWeight": "bold", "color": "#1e293b" }
+      },
+      {
+        "id": "list1",
+        "type": "text",
+        "content": "• Increased Efficiency\n• Cost Reduction\n• Better Decision Making",
+        "position": { "x": 25, "y": 60 },
+        "style": { "fontSize": "16px", "color": "#334155" }
+      },
+      {
+        "id": "image2",
+        "type": "image",
+        "content": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop",
+        "position": { "x": 75, "y": 50 },
+        "style": { "borderRadius": "8px" }
+      }
+    ],
+    "transitions": { "type": "slide", "duration": 0.7 },
+    "notes": "Benefits overview with visual",
+    "createdAt": "2024-01-10T08:20:00Z",
+    "updatedAt": "2024-01-14T12:10:00Z"
+  },
+  {
+    "id": "slide6",
+    "order": 1,
+    "layout": "table",
+    "elements": [
+      {
+        "id": "table1",
+        "type": "text",
+        "content": "Business Unit | AI Solution | Benefit\nGriffin Wings | Flight Pricing | +15-20% Revenue\nGriffin Resources | Hiring Assistant | 93% Time Reduction\nGriffin Capital | Financial Analyst | 80% Faster Reports",
+        "position": { "x": 50, "y": 50 },
+        "style": { "fontSize": "14px", "color": "#334155", "fontFamily": "monospace" }
+      }
+    ],
+    "transitions": { "type": "fade", "duration": 0.5 },
+    "notes": "Quantifiable benefits table",
+    "createdAt": "2024-01-08T15:45:00Z",
+    "updatedAt": "2024-01-11T09:30:00Z"
+  },
+  {
+    "id": "slide7",
+    "order": 1,
+    "layout": "quote",
+    "elements": [
+      {
+        "id": "quote1",
+        "type": "text",
+        "content": "\"AI transformation is not just about technology, it's about reimagining how we work\"",
+        "position": { "x": 50, "y": 40 },
+        "style": { "fontSize": "24px", "fontStyle": "italic", "color": "#475569", "textAlign": "center" }
+      },
+      {
+        "id": "author1",
+        "type": "text",
+        "content": "- CEO, Griffin Holdings",
+        "position": { "x": 50, "y": 60 },
+        "style": { "fontSize": "16px", "color": "#64748b", "textAlign": "center" }
+      }
+    ],
+    "transitions": { "type": "zoom", "duration": 0.8 },
+    "notes": "Inspirational quote from leadership",
+    "createdAt": "2024-01-05T13:20:00Z",
+    "updatedAt": "2024-01-09T17:15:00Z"
+  },
+  {
+    "id": "slide8",
+    "order": 1,
+    "layout": "comparison",
+    "elements": [
+      {
+        "id": "before",
+        "type": "text",
+        "content": "Before AI\n• Manual Processes\n• Reactive Decisions\n• Limited Insights",
+        "position": { "x": 25, "y": 50 },
+        "style": { "fontSize": "16px", "color": "#dc2626" }
+      },
+      {
+        "id": "after",
+        "type": "text",
+        "content": "After AI\n• Automated Workflows\n• Predictive Analytics\n• Data-Driven Insights",
+        "position": { "x": 75, "y": 50 },
+        "style": { "fontSize": "16px", "color": "#059669" }
+      }
+    ],
+    "transitions": { "type": "slide", "duration": 0.6 },
+    "notes": "Before and after comparison",
+    "createdAt": "2024-01-03T10:30:00Z",
+    "updatedAt": "2024-01-07T14:45:00Z"
+  },
+  {
+    "id": "slide9",
+    "order": 1,
+    "layout": "roadmap",
+    "elements": [
+      {
+        "id": "roadmap1",
+        "type": "text",
+        "content": "2024 Roadmap",
+        "position": { "x": 50, "y": 20 },
+        "style": { "fontSize": "28px", "fontWeight": "bold", "color": "#1e293b" }
+      },
+      {
+        "id": "phase1",
+        "type": "shape",
+        "content": "",
+        "position": { "x": 20, "y": 50 },
+        "style": { "width": "120px", "height": "60px", "backgroundColor": "#3b82f6", "borderRadius": "8px" }
+      },
+      {
+        "id": "phase2",
+        "type": "shape",
+        "content": "",
+        "position": { "x": 50, "y": 50 },
+        "style": { "width": "120px", "height": "60px", "backgroundColor": "#10b981", "borderRadius": "8px" }
+      },
+      {
+        "id": "phase3",
+        "type": "shape",
+        "content": "",
+        "position": { "x": 80, "y": 50 },
+        "style": { "width": "120px", "height": "60px", "backgroundColor": "#f59e0b", "borderRadius": "8px" }
+      }
+    ],
+    "transitions": { "type": "fade", "duration": 0.7 },
+    "notes": "Implementation roadmap timeline",
+    "createdAt": "2024-01-01T12:00:00Z",
+    "updatedAt": "2024-01-05T16:20:00Z"
+  },
+  {
+    "id": "slide10",
+    "order": 1,
+    "layout": "conclusion",
+    "elements": [
+      {
+        "id": "conclusion1",
+        "type": "text",
+        "content": "Next Steps",
+        "position": { "x": 50, "y": 25 },
+        "style": { "fontSize": "30px", "fontWeight": "bold", "color": "#1e293b" }
+      },
+      {
+        "id": "steps1",
+        "type": "text",
+        "content": "1. Pilot Program Launch\n2. Team Training & Development\n3. Gradual Implementation\n4. Performance Monitoring\n5. Continuous Improvement",
+        "position": { "x": 50, "y": 60 },
+        "style": { "fontSize": "18px", "color": "#334155", "lineHeight": "1.8" }
+      }
+    ],
+    "transitions": { "type": "slide", "duration": 0.8 },
+    "notes": "Action items and next steps",
+    "createdAt": "2023-12-30T14:15:00Z",
+    "updatedAt": "2024-01-02T11:30:00Z"
+  }
+]
